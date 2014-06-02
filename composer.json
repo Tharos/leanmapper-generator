@@ -12,7 +12,7 @@
         "classmap": ["src/"]
     },
     "require": {
-        "tharos/LeanMapper": "2.1.*",
+        "tharos/LeanMapper": "dev-develop",
         "doctrine/dbal": "dev-master"
     }
 }
