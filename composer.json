@@ -11,8 +11,9 @@
     "autoload": {
         "classmap": ["src/"]
     },
+	"minimum-stability": "stable",
     "require": {
         "tharos/LeanMapper": "dev-develop",
-        "doctrine/dbal": "dev-master"
+	    "doctrine/dbal": "v2.4.2"
     }
 }
